@@ -8,7 +8,7 @@ A ordered list of resources to use statistical and ML models.
 
 ### Poisson Regression
 1. Poisson regression (not tidymodels): [link](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/).
-2. Zero inflated poisson regression: [link](https://juliasilge.com/blog/rstats-vignettes/).
+  * Zero inflated poisson regression: [link](https://juliasilge.com/blog/rstats-vignettes/).
 
 ## Classification
 
