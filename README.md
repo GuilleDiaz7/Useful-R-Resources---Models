@@ -15,6 +15,7 @@ A ordered list of resources to use statistical and ML models.
 
 ### Multinomial Classification
 1. With **Random Forest**: [blog](https://juliasilge.com/blog/multinomial-volcano-eruptions/).
+
 1.2. Hyperparameter tuning for **Random Forest**: [blog](https://juliasilge.com/blog/sf-trees-random-tuning/).
 
 ## Time Series Analysis
