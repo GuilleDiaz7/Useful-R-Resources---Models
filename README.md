@@ -11,7 +11,11 @@ A ordered list of resources to use statistical and ML models.
 2. Zero inflated poisson regression: [link](https://juliasilge.com/blog/rstats-vignettes/).
 
 ## Classification
-1. 
+
+
+### Multinomial Classification
+1. With **Random Forest**: [blog](https://juliasilge.com/blog/multinomial-volcano-eruptions/).
+1.2. Hyperparameter tuning for **Random Forest**: [blog](https://juliasilge.com/blog/sf-trees-random-tuning/).
 
 ## Time Series Analysis
 1. The R code of Hands on Time Series Analysis with T, chapter by chapter: [book](https://github.com/RamiKrispin/Hands-On-Time-Series-Analysis-with-R).
