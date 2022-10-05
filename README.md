@@ -2,7 +2,7 @@
 A ordered list of resources to use statistical and ML models.
 
 ## Tidymodels
-1. The best explanation to **tidymodels**. Just go over the whole [workshop](https://workshops.tidymodels.org/) running the code and trying to understand it. It requires some background.
+1. The best explanation to **tidymodels**. Just go over the whole [workshop](https://workshops.tidymodels.org/) running the code and trying to understand every bit of code. It requires some background.
 2. A long [video](https://www.youtube.com/watch?v=GdR_S8bYaag&t=934s) tutorial explaining the **recipes** package.
 
 ## Techniques
