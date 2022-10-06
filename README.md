@@ -23,4 +23,5 @@ A ordered list of resources to use statistical and ML models.
    - Hyperparameter tuning for **Random Forest**: [blog](https://juliasilge.com/blog/sf-trees-random-tuning/).
 
 ### Time Series Analysis
-1. The R code of Hands on Time Series Analysis with T, chapter by chapter: [book](https://github.com/RamiKrispin/Hands-On-Time-Series-Analysis-with-R).
+1. The R code of Hands on Time Series Analysis with R, chapter by chapter: [book](https://github.com/RamiKrispin/Hands-On-Time-Series-Analysis-with-R).
+2. A [video](https://www.youtube.com/watch?v=5nfe835TVcY) introduction to *anomaly detection* in time series with **anomalize**.
