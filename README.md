@@ -2,8 +2,10 @@
 A ordered list of resources to use statistical and ML models.
 
 ## Tidymodels
-Tidymodels is a general framework to model data covering all stages: preprocessing, tuning, fitting, predicting, monitoring.
-1. The best explanation to **tidymodels**. Just go over the whole [workshop](https://workshops.tidymodels.org/) running the code and trying to understand every bit of code. It requires some background.
+Tidymodels is a general framework to model data covering all stages: preprocessing, tuning, fitting, predicting, monitoring. There is a whole [book](https://www.tmwr.org/).
+
+### Other resources
+1. A nice introduction to **tidymodels**. Just go over the whole [workshop](https://workshops.tidymodels.org/) running the code and trying to understand every bit of code. It requires some background.
 2. A long [video](https://www.youtube.com/watch?v=GdR_S8bYaag&t=934s) tutorial explaining the **recipes** package.
 
 ## Techniques
